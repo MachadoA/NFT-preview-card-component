@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MachadoA/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://machadoa.github.io/card-component/)
+- Solution URL: [Add solution URL here](https://github.com/MachadoA/NFT-preview-card-component)
+- Live Site URL: [Add live site URL here](https://nft-preview-card-newbie.netlify.app/)
 
 ## My process
 
