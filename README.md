@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MachadoA/NFT-preview-card-component)
-- Live Site URL: [Add live site URL here](https://nft-preview-card-newbie.netlify.app/)
+- Solution URL: [https://github.com/MachadoA/NFT-preview-card-component](https://github.com/MachadoA/NFT-preview-card-component)
+- Live Site URL: [https://nft-preview-card-newbie.netlify.app/](https://nft-preview-card-newbie.netlify.app/)
 
 ## My process
 
